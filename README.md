@@ -40,11 +40,18 @@ This project focuses on analyzing a dataset from restaurant chains to uncover ke
 
 ## Key Insights  
 - **Top Cuisines:**  
-  - Identified the most popular cuisines customers prefer, providing a focus for menu optimization.  
+  - Identified the most popular cuisines customers prefer, providing a focus for menu optimization.  ![output_11_0](https://github.com/user-attachments/assets/35b40601-f143-45b0-8b75-35a41314e863)
+
 - **City Trends:**  
   - Highlighted the most restaurant-dense city and its average ratings to inform expansion strategies.  
-  - Identified high-rating cities, offering insights for branding and promotion.  
+  - Identified high-rating cities, offering insights for branding and promotion. ![newplot](https://github.com/user-attachments/assets/780ca0fd-8a5a-43d8-b406-898ef4c62d41)
+
+
 - **Price Range Patterns:**  
-  - Observed the distribution of restaurant price ranges, assisting in pricing strategy decisions.  
+  - Observed the distribution of restaurant price ranges, assisting in pricing strategy decisions.  ![output_18_0](https://github.com/user-attachments/assets/6e67c241-2d7c-45d1-bd86-f168e0bfbded)
+
 - **Geospatial Insights:**  
-  - Leveraged location-based data to identify patterns or clusters of restaurants in specific areas, aiding in geographic targeting and operations.  
+  - Leveraged location-based data to identify patterns or clusters of restaurants in specific areas, aiding in geographic targeting and operations.![newplot cluster](https://github.com/user-attachments/assets/9769ac25-5387-4a5e-bf78-a1eca5b7e6d6)
+
+- **Online Delivery Performance:**
+  - Analyzed online delivery data to evaluate order trends, delivery times, and customer satisfaction ![output_69_0](https://github.com/user-attachments/assets/00b7e7a7-303f-401c-b00b-be1859819513)
